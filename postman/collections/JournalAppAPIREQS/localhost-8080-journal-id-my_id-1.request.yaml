@@ -1,0 +1,15 @@
+$kind: http-request
+name: localhost:8080/journal/id/my_id
+description: ""
+url: localhost:8080/journal/id/1785592428
+method: DELETE
+body:
+  type: json
+  content: "{\r
+
+    \    \"title\":\"FirstTitle\",\r
+
+    \    \"content\":\"FirstContent\"\r
+
+    }"
+order: 3340211358404753

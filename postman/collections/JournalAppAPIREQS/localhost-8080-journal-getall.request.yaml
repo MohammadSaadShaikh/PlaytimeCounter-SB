@@ -1,0 +1,15 @@
+$kind: http-request
+name: localhost:8080/journal/getall
+description: ""
+url: localhost:8080/journal/getall
+method: GET
+body:
+  type: json
+  content: "{\r
+
+    \    \"title\":\"FirstTitle\",\r
+
+    \    \"content\":\"FirstContent\"\r
+
+    }"
+order: 1785593358969

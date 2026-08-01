@@ -1,0 +1,9 @@
+$kind: http-request
+name: localhost:8080/journal
+description: ""
+url: localhost:8080/journal
+method: POST
+body:
+  type: json
+  content: ""
+order: 3100597355395744
