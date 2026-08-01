@@ -11,8 +11,8 @@
 	<groupId>net.testspring</groupId>
 	<artifactId>PlaytimeCounter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Journal App</name>
-	<description>E2EE Journal App</description>
+	<name>Playtime Counter</name>
+	<description>Video Game Playtime Counter — Track your games, playtime, platform, genre, and notes.</description>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
